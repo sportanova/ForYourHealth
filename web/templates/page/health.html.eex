@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <form action="/quiz" method="POST">
+    <label>Cuantos horas te ejerces por semana?</label>
+    <input type="number" name="horas">
+    <button type="submit">Revisa</button>
+  </form>
+</div>
